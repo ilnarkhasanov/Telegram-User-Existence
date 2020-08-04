@@ -32,7 +32,7 @@ if html.status_code == 200:
     else:
         result = 'Exist'
 else:
-    result = 'Telegram Servers Error'
+    result = 'Error'
 
 with open('answer.json', 'w') as j:
     print(json.dumps({
