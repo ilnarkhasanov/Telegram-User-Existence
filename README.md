@@ -17,3 +17,5 @@ Open *answer.json*. You will see the dictionary with *result* key. The value und
 **Does not exist** - means that there is no any Telegram user with that username.
 
 **Error** - means that some issues with yout Internet connection or Telegram servers occured.
+
+From Ilnar Khasanov with Love, 2020.
